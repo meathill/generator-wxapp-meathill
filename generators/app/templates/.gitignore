@@ -1,0 +1,9 @@
+# IDE
+.idea
+
+# repo
+node_modules
+
+# build
+*.wxss
+*.wxml

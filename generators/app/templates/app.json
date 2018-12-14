@@ -1,0 +1,14 @@
+{
+  "cloud": true,
+  "debug": true,
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundColor": "#FFF",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "navigationBarTitleText": "应用名称",
+    "navigationBarTextStyle": "black"
+  }
+}
